@@ -11,3 +11,5 @@ L’application permettra par exemple à Thomas, qui réalise quotidiennement le
 Une autre utilisatrice, Alice qui habite à Vignoc pourra trouver le trajet de Thomas si les horaires coïncident car l’aire de Vignoc se trouve sur le trajet de Thomas.
 
 Attention, l’application a uniquement pour but de mettre en relation les utilisateurs et en aucune manière ne gérera la partie financière. Les utilisateurs pourront se mettre d’accord sur une participation financière ou sur un trajet alterné, mais cela ne fait pas partie du scope de ce projet.
+
+# test
